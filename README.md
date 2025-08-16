@@ -1,6 +1,6 @@
 # Weekly Meal Ideas Planner App
 
-A simple and interactive React application for creating, editing, searching, and managing your weekly meal plans.  
+A simple and interactive **React** application for creating, editing, searching, and managing your weekly meal plans.  
 Your data is stored in **localStorage**, so your plans remain even after you close the browser.
 
 ---
