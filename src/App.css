@@ -98,13 +98,11 @@ textarea {
 }
 
 .text {
-    color: #b1f68d;
+    color: #77cf48;
     font-size: 20px;
     margin: 20px;
     font-weight: bolder;
     font-family: "Montserrat", sans-serif;
-    background-color: #dcedf7;
-    border-radius: 20px;
 }
 
 .field {
