@@ -46,12 +46,14 @@ Click Delete to remove a meal (confirmation required).
 
 ---
 ## Project Structure
+```
 src/
 ├── App.js                # Main app component, handles state and logic
 ├── App.css               # Styling for the application
 ├── MyList.js             # Displays meal list, add & delete actions
 ├── MealsandIngredients.js# Displays and edits selected meal details
 └── assets/food.jpg       # Background image
+```
 
 ---
 ## Code Overview
