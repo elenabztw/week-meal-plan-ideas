@@ -76,6 +76,9 @@ MealsandIngredients.js
 
 Allows editing the selected meal's title, plan, and ingredients
 
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/a8ef3367-cb29-475f-b46d-bf56e5af1c4e" />
+
+
 ## License
 
 This project is licensed under the MIT License – feel free to use and modify.
